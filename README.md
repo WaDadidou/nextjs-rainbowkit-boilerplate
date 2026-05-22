@@ -1,6 +1,7 @@
 # NextJS Rainbowkit Boilerplate
 
-<img width="786" height="617" alt="image" src="https://github.com/user-attachments/assets/4e13f8b0-c582-45b3-a4b4-1587ba738659" />
+<img width="780" height="617" alt="image" src="https://github.com/user-attachments/assets/fa360e46-2c97-4635-b83b-59b56e7fb7ad" />
+
 
 ---
 
